@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/autolux-preview/static/css/main.6f09b373.css",
+    "main.js": "/autolux-preview/static/js/main.e46bee74.js",
+    "index.html": "/autolux-preview/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.6f09b373.css",
+    "static/js/main.e46bee74.js"
+  ]
+}
