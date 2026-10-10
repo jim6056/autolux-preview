@@ -2,9 +2,7 @@
   "files": {
     "main.css": "/autolux-preview/static/css/main.e0ac8d8d.css",
     "main.js": "/autolux-preview/static/js/main.61bd80f1.js",
-    "index.html": "/autolux-preview/index.html",
-    "main.e0ac8d8d.css.map": "/autolux-preview/static/css/main.e0ac8d8d.css.map",
-    "main.61bd80f1.js.map": "/autolux-preview/static/js/main.61bd80f1.js.map"
+    "index.html": "/autolux-preview/index.html"
   },
   "entrypoints": [
     "static/css/main.e0ac8d8d.css",
