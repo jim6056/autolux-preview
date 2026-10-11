@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/autolux-preview/static/css/main.0a3d554d.css",
-    "main.js": "/autolux-preview/static/js/main.cbf87d0a.js",
+    "main.css": "/autolux-preview/static/css/main.4e899315.css",
+    "main.js": "/autolux-preview/static/js/main.e3171136.js",
     "index.html": "/autolux-preview/index.html"
   },
   "entrypoints": [
-    "static/css/main.0a3d554d.css",
-    "static/js/main.cbf87d0a.js"
+    "static/css/main.4e899315.css",
+    "static/js/main.e3171136.js"
   ]
 }
